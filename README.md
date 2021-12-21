@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hey you! 👋
 
 I am a Javascript Enthusiast who works for Cisco Systems on [@webex](https://github.com/webex) with the [webex-js-sdk](https://github.com/webex/webex-js-sdk/) team.
 
 
+- 📊 I conduct Javascript polls on my [LinkedIn](https://www.linkedin.com/in/kesavakrishnanm/) profile every once in a while
 - 👯 I’m looking to collaborate on teaching javascript & logical thinking to folks who seek
 - 💬 Ask me anything about app development, frontend development
 - 👨🏻‍🏫 I like to talk & learn on topics related to mentoring, team collaboration and leadership
