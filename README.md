@@ -20,7 +20,7 @@ I have worked for,
 
 | [Zoho](https://zoho.com/)      | [Vin Bytes](https://vinbytes.com/) |
 | ----------- | ----------- |
-| <img src="https://www.zoho.com/branding/images/zoho-logo-512px.png" alt="drawing" height="75"/>      | <img src="https://vinbytes.com/assets/images/header/VIN%20BYTES%20LOGO%20WHITE.png" alt="drawing" height="75"/>       |
+| <img src="https://www.zoho.com/branding/images/zoho-logo-512px.png" alt="drawing" height="75"/>      | <img src="https://vinbytes.com/assets/images/footer/VinBytes%20logo%20multicolour.png" alt="drawing" height="75"/>       |
 
 
 <!-- ![WebEx by Cisco](https://www.cisco.com/c/dam/en/us/td/i/400001-500000/450001-460000/459001-460000/459895.jpg) -->
